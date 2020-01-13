@@ -1,2 +1,2 @@
 # MSSE 600 - Object Oriented Software Engineering
-2020-01-13 -- ... 
+13 JAN 2020 - ?? FEB 2020
